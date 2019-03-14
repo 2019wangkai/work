@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5763" started-at="2019-03-14T01:00:31Z" finished-at="2019-03-14T01:00:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5763" started-at="2019-03-14T01:00:31Z" finished-at="2019-03-14T01:00:37Z">
+      <class name="work.baidu">
+        <test-method status="PASS" signature="openchrome()[pri:0, instance:work.baidu@1bc6a36e]" name="openchrome" is-config="true" duration-ms="2502" started-at="2019-03-14T09:00:31Z" finished-at="2019-03-14T09:00:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method status="PASS" signature="Alogin()[pri:0, instance:work.baidu@1bc6a36e]" name="Alogin" duration-ms="3254" started-at="2019-03-14T09:00:34Z" finished-at="2019-03-14T09:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Alogin -->
+      </class> <!-- work.baidu -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
